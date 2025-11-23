@@ -291,15 +291,14 @@ footer {
 }
 ```
 # OUTPUT:
-![Screenshot 2024-12-13 204458](https://github.com/user-attachments/assets/65ae7867-4183-4285-8f0e-00aceb6559e4)
-![Screenshot 2024-12-13 204516](https://github.com/user-attachments/assets/2e18e409-666f-4b5f-b4dd-df2db6108d5b)
-![Screenshot 2024-12-13 204545](https://github.com/user-attachments/assets/abe7f6a0-fed5-48f1-aad9-5368ff8310be)
-![Screenshot 2024-12-13 204602](https://github.com/user-attachments/assets/261cdc95-cbc3-4659-a081-b72b7ee51e48)
-![Screenshot 2024-12-13 204616](https://github.com/user-attachments/assets/0c590ea4-6cd4-4e6b-98b6-cd4515f0522b)
-![Screenshot 2024-12-13 204635](https://github.com/user-attachments/assets/7156c31b-8ab9-46e6-a67c-5fd43f7109b3)
-![Screenshot 2024-12-13 204704](https://github.com/user-attachments/assets/07f32e22-91f9-4ba4-b944-e02a6eefccdb)
-![Screenshot 2024-12-13 204721](https://github.com/user-attachments/assets/fe3634dd-13a0-4bb9-91ad-f4ba319553bd)
-![Screenshot 2024-12-13 204740](https://github.com/user-attachments/assets/8785ac72-67f9-4999-858b-f7c998644d90)
-![Screenshot 2024-12-13 204759](https://github.com/user-attachments/assets/c2e2b92f-0a54-4557-9caa-62ea8058780f)
+<img width="1380" height="710" alt="image" src="https://github.com/user-attachments/assets/d4102674-7f4f-49ba-9c2d-f0d5e1b49fab" />
+<img width="1387" height="710" alt="image" src="https://github.com/user-attachments/assets/bf87ca4b-dcdb-41d4-a51a-b3d8387fd66c" />
+<img width="1381" height="710" alt="image" src="https://github.com/user-attachments/assets/deadc7c4-69a3-4a7c-a92c-e0ec518822c8" />
+<img width="1390" height="715" alt="image" src="https://github.com/user-attachments/assets/68405931-8b54-4a81-ab14-ac05b3031849" />
+
+
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
